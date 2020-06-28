@@ -1,4 +1,3 @@
-# coding=utf-8
 # Copyright 2020 The Trax Authors.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -21,7 +20,7 @@ from setuptools import setup
 
 setup(
     name='trax',
-    version='1.2.4',
+    version='1.3',
     description='Trax',
     long_description=(
         'Trax helps you understand deep learning. We start with basic maths and'
